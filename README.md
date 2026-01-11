@@ -13,7 +13,7 @@ The main features are :
 
 -------------
 
-Projet final en Algorithmie / Structure de données en C. Ce projet consiste à modéliser une partie du métro parisien à partir d’un fichier texte décrivant ses stations et liaisons. Le réseau est représenté sous forme de graphe pondéré, permettant l’analyse et la manipulation des données à l’aide de structures de données et d’algorithmes classiques.
+Projet final en Algorithmie / Structure de données en C. Ce projet consiste à modéliser une partie du métro parisien à partir d’un fichier texte décrivant ses stations et liaisons.  Le réseau est représenté sous forme de graphe pondéré, permettant l’analyse et la manipulation des données à l’aide de structures de données et d’algorithmes classiques.
 Les principales fonctionnalités sont :
 * Recherche d’une station par identifiant ou par nom
 * Affichage des voisins d’une station

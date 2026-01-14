@@ -21,6 +21,28 @@ Les principales fonctionnalités sont :
 * Tri des stations par degré à l’aide de plusieurs algorithmes
 * Comparaison des algorithmes de tri (comparaisons, déplacements / permutations)
 
+## Environment / Environnement
+
+The program is cut in many files including source code and their headers :
+* station.c / .h : evrything that deals with the stations
+* edge.c / .h : same for the edges
+* tri.c / .h : for all the sort algorithm
+* hash.c / .h  : for the hash table
+* dijkstra.c / .h : for the Dijkstra Algorithm
+* menu.c / .h : for the display of the interactive menu
+* main.c : the main file
+
+----------
+
+Le programme est divisé en plusieurs fichiers code source et leurs headers :
+* station.c / .h : pour tout ce qui touche de près aux stations
+* edge.c / .h : pareil pour les arêtes
+* tri.c / .h : pour les algorithmes de tri
+* hash.c / .h : pour la hash table
+* dijkstra.c / .h : pour l'implémentation de l'algorithme de Dijkstra
+* menu.c / .h : pour l'affichage du menu intéractif
+* main.c : le fichier main
+
 ## 🧱 Data Structures / Structures de données
 
 * Stations are stored in a dynamic array

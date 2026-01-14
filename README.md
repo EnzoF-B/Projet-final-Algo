@@ -21,7 +21,7 @@ Les principales fonctionnalités sont :
 * Tri des stations par degré à l’aide de plusieurs algorithmes
 * Comparaison des algorithmes de tri (comparaisons, déplacements / permutations)
 
-## Environment / Environnement
+## 🏔️ Environment / Environnement
 
 The program is cut in many files including source code and their headers :
 * station.c / .h : evrything that deals with the stations
